@@ -19,9 +19,6 @@ public class CommandAll implements CommandExecutor {
                 case "loja":
                     p.chat("/system:warp loja");
                     break;
-                case "celeiro":
-                    p.chat("/system:warp celeiro");
-                    break;
                 case "pesqueiro":
                     p.chat("/system:warp pesqueiro");
                     break;
